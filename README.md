@@ -22,12 +22,12 @@ The project description and final report can be found in URS/bin/Release/
   + Create and testing is a very important part because I discovered fixed many bugs during this phase.
   + Follow Test-driven development approach.
   
-+ Maintenance:
+- Maintenance:
   + After you complete the core features, you can move on to implement new features.
   + One step at a time!
   
 === Roles in the project ===
-I am the main programmer.
-Kate helps designing the database and queries.
-Emilio and Andrew helps testing.
-All of us work together on documentation.
+- I am the main programmer.
+- Kate helps designing the database and queries.
+- Emilio and Andrew helps testing.
+- All of us work together on documentation.
