@@ -1,0 +1,207 @@
+Course Title: Computing I
+Course Designation: CSCI230
+Year/ Semester: FA2014
+Instructor: Danielle Jackson
+Max capacity: 30
+Students enrolled: 29
+------------------------------
+
+
+Course Title: Computing I
+Course Designation: CSCI230
+Year/ Semester: SP2015
+Instructor: Danielle Jackson
+Max capacity: 30
+Students enrolled: 15
+------------------------------
+
+
+Course Title: Analytic Geometry and Calculus I
+Course Designation: math165
+Year/ Semester: FA2014
+Instructor: Robert Thornburgh
+Max capacity: 25
+Students enrolled: 20
+------------------------------
+
+
+Course Title: Analytic Geometry and Calculus I
+Course Designation: math165
+Year/ Semester: SP2015
+Instructor: Robert Thornburgh
+Max capacity: 25
+Students enrolled: 25
+------------------------------
+
+
+Course Title: Elementary Composition I
+Course Designation: ENG131
+Year/ Semester: FA2014
+Instructor: Sam Jones
+Max capacity: 30
+Students enrolled: 20
+------------------------------
+
+
+Course Title: Elementary Composition I
+Course Designation: ENG131
+Year/ Semester: SP2015
+Instructor: Sam Jones
+Max capacity: 30
+Students enrolled: 20
+------------------------------
+
+
+Course Title: The Stars and Galaxies
+Course Designation: AST105
+Year/ Semester: FA2014
+Instructor: Collin Felix
+Max capacity: 20
+Students enrolled: 15
+------------------------------
+
+
+Course Title: The Stars and Galaxies
+Course Designation: AST105
+Year/ Semester: SP2015
+Instructor: Collin Felix
+Max capacity: 40
+Students enrolled: 31
+------------------------------
+
+
+Course Title: Public Speaking
+Course Designation: COMM110
+Year/ Semester: SP2015
+Instructor: Quentin Maren
+Max capacity: 30
+Students enrolled: 20
+------------------------------
+
+
+Course Title: Integrated Calculus and Analytic Geometry II
+Course Designation: MATH166
+Year/ Semester: SP2015
+Instructor: Robert Thornburgh
+Max capacity: 20
+Students enrolled: 10
+------------------------------
+
+
+Course Title: Discrete Computational Structures
+Course Designation: CSCI340
+Year/ Semester: SP2015
+Instructor: James Smith
+Max capacity: 25
+Students enrolled: 15
+------------------------------
+
+
+Course Title: Computing II
+Course Designation: CSCI240
+Year/ Semester: SP2015
+Instructor: Danielle Jackson
+Max capacity: 40
+Students enrolled: 40
+------------------------------
+
+
+Course Title: History of Western Civilization
+Course Designation: HIST114
+Year/ Semester: SP2015
+Instructor: Lauren Blackwell
+Max capacity: 50
+Students enrolled: 25
+------------------------------
+
+
+Course Title: Windows on Computer
+Course Designation: CSCI120
+Year/ Semester: SP2012
+Instructor: James Smith
+Max capacity: 30
+Students enrolled: 25
+------------------------------
+
+
+Course Title: hellohellohellohellohellohellohl
+Course Designation: P122
+Year/ Semester: SP2015
+Instructor: James Smith
+Max capacity: 10
+Students enrolled: 0
+------------------------------
+
+
+Course Title: hellohellohellohellohellohellohellohellohello
+Course Designation: P123
+Year/ Semester: SP2015
+Instructor: James Smith
+Max capacity: 10
+Students enrolled: 0
+------------------------------
+
+
+Course Title: hellohellohellohellohellohellohellohellohello9999
+Course Designation: P1200
+Year/ Semester: SP2015
+Instructor: James Smith
+Max capacity: 10
+Students enrolled: 0
+------------------------------
+
+
+Course Title: Hye there
+Course Designation: HUJ986
+Year/ Semester: SP2015
+Instructor: Sam Jones
+Max capacity: 1
+Students enrolled: 0
+------------------------------
+
+
+Course Title: Intro to awesome
+Course Designation: AWE111
+Year/ Semester: SP2015
+Instructor: Danielle Jackson
+Max capacity: 10
+Students enrolled: 0
+------------------------------
+
+
+Course Title: Hey there
+Course Designation: BBB888
+Year/ Semester: SP2015
+Instructor: Quentin Maren
+Max capacity: 7
+Students enrolled: 0
+------------------------------
+
+
+Course Title: Hey there
+Course Designation: BBB8889
+Year/ Semester: SP2015
+Instructor: Quentin Maren
+Max capacity: 1
+Students enrolled: 0
+------------------------------
+
+
+Course Title: Hey there
+Course Designation: BBB886
+Year/ Semester: SP2015
+Instructor: Quentin Maren
+Max capacity: 6
+Students enrolled: 0
+------------------------------
+
+
+Course Title: Hey there
+Course Designation: NEW DSSS
+Year/ Semester: SP2015
+Instructor: Quentin Maren
+Max capacity: 300
+Students enrolled: 0
+------------------------------
+
+

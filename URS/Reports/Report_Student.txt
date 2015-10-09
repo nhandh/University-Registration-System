@@ -1,0 +1,17 @@
+Report for student ID: 2
+Student's name: Mary Jane
+Semester: SP2015
+===============================
+
+COMM110
+Public Speaking
+------------------------------
+
+MATH166
+Integrated Calculus and Analytic Geometry II
+------------------------------
+
+CSCI340
+Discrete Computational Structures
+------------------------------
+

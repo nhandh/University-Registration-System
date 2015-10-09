@@ -1,0 +1,22 @@
+Report for course ID: 15
+Course title: The Stars and Galaxies
+Course designation: AST105
+Semester: SP2015
+Instructor: Collin Felix
+Department: Physics
+Credit hours: 3
+Location: MX200
+Schedule: WTh 09:30-10:45
+Capacity: 40
+Enrolled student: 32
+Description: Survey of the universe beyond the solar system, including stars, pulsars, black holes, principles of spectroscopy and the H-R diagram, nebulae, the Milky Way, other galaxies, quasars, expanding universe, cosmology, and extraterrestrial life.
+
+===============================
+
+Students who are in this course: 
+
+Student ID		 First name		 Last name
+
+1			 Jane			 Doe
+
+
