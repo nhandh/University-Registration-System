@@ -8,7 +8,7 @@ The project description and final report can be found in URS/bin/Release/
 ==== What I learned from the project ===
 - Requirement Specification:
   + All the requirements need to be clear to ALL team members.
-  + We should adapt to any unforseen change in the requirements.
+  + We should adapt to any unforeseen change in the requirements.
   
 - Design:
   + A careful design can save hours of coding in the implementation phase!
